@@ -29,7 +29,7 @@ QUATRAINS = [
 
 COUPLET = [
     "Who acts for me does not unmake my will;",
-    "my agency grows, delegated, still.",
+    "lent out, my agency is mine still.",
 ]
 
 
